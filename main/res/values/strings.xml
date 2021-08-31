@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Not</string>
+    <string name="search">Ara</string>
+    <string name="saved">Kaydedildi.</string>
+    <string name="updated">Güncellendi.</string>
+    <string name="deleteDialog">Sil</string>
+    <string name="delete">Bu notu silmek istediğinizden emin misiniz ?</string>
+    <string name="okayDialog">Tamam</string>
+    <string name="cancelDialog">İPTAL</string>
+    <string name="share">Paylaş</string>
+    <string name="deleteNot">Sil</string>
+    <string name="not_header">Not Başlığı</string>
+    <string name="permission_denied">İzin Reddedildi</string>
+    <string name="chooeseImage">Resim Seç</string>
+</resources>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:id="@+id/ln_color"
+    android:gravity="center"
+    android:background="@color/shadowBlack"
+    android:onClick="onClickColor"
+    android:clickable="true"
+    android:paddingBottom="143dp"
+   >
+    <GridLayout
+        android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:background="@drawable/dialog_shape"
+        android:columnCount="3"
+        android:useDefaultMargins="true"
+        android:padding="8dp"
+        android:rowCount="2">
+
+        <Button
+            android:id="@+id/btn_not1"
+            android:background="@color/colorNot1"
+            android:layout_height="@dimen/dimenColor"
+            android:layout_width="@dimen/dimenColor"
+            android:onClick="onClickColor"></Button>
+
+        <Button
+            android:id="@+id/btn_not2"
+            android:background="@color/colorNot2"
+            android:layout_height="@dimen/dimenColor"
+            android:layout_width="@dimen/dimenColor"
+            android:onClick="onClickColor"></Button>
+
+        <Button
+            android:id="@+id/btn_not3"
+            android:layout_width="@dimen/dimenColor"
+            android:layout_height="@dimen/dimenColor"
+            android:layout_row="0"
+            android:layout_column="2"
+            android:background="@color/colorNot3"
+            android:onClick="onClickColor"></Button>
+
+        <Button
+            android:id="@+id/btn_not4"
+            android:background="@color/colorNot4"
+            android:layout_height="@dimen/dimenColor"
+            android:layout_width="@dimen/dimenColor"
+            android:onClick="onClickColor"></Button>
+
+        <Button
+            android:id="@+id/btn_not5"
+            android:background="@color/colorNot5"
+            android:layout_height="@dimen/dimenColor"
+            android:layout_width="@dimen/dimenColor"
+            android:onClick="onClickColor"></Button>
+
+        <Button
+            android:id="@+id/btn_not6"
+            android:background="@color/colorNot6"
+            android:layout_height="@dimen/dimenColor"
+            android:layout_width="@dimen/dimenColor"
+            android:onClick="onClickColor"></Button>
+
+    </GridLayout>
+</LinearLayout>

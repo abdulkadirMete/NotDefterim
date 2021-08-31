@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standartItem">56dp</dimen>
+    <dimen name="dimenColor">48dp</dimen>
+    <dimen name="dimenSort">36dp</dimen>
+</resources>

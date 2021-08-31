@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151c25</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#f1b814</color>
+    <color name="colorLighterBlue">#223850</color>
+    <color name="colorRvHome">#182D3A</color>
+    <color name="colorLightBlue">#add8e6</color>
+    <color name="colorDarkBlue">#182330</color>
+    <color name="shadowBlack">#BC000000</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorNote">#fff8bb</color>
+    <color name="colorButton">#043F53</color>
+    <color name="colorDialog">#424242</color>
+    <color name="colorSelectedShadow">#6A00A2EB</color>
+
+    <color name="colorNot1">#fff8bb</color>
+    <color name="colorNot2">#ffa200</color>
+    <color name="colorNot3">#e64346</color>
+    <color name="colorNot4">#6fc330</color>
+    <color name="colorNot5">#6FCDFF</color>
+    <color name="colorNot6">#7b35bc</color>
+
+    <color name="colorEt1">#fff8bb</color>
+    <color name="colorEt2">#FFD0B1</color>
+    <color name="colorEt3">#FABCB6</color>
+    <color name="colorEt4">#E0F8D2</color>
+    <color name="colorEt5">#B5DFFF</color>
+    <color name="colorEt6">#E4C6FD</color>
+
+</resources>
